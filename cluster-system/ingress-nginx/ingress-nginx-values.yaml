@@ -3,5 +3,3 @@ fullnameOverride: ingress-nginx
 controller:
   watchIngressWithoutClass: true
 
-tcp:
-  10022: "default/gitea-ssh:22"
